@@ -159,7 +159,7 @@ public class Main {
             balls++;
         }
         if (bowling == "player") {
-            System.out.println("\n::::::::::::::: Boundaries "+fours+" ::::::::::::::: sixes "+sixes+" :::::::::::::::: ");
+            System.out.println("\n:::::::::::::::2ND INNING'S Boundaries "+fours+" ::::::::::::::: sixes "+sixes+" :::::::::::::::: ");
             System.out.println("\n:::::::::::::::Bot scored: "+bot+"::::::::::::::::");
             System.out.println("\n:::::::::::::::You scored: "+player+"::::::::::::::::\n");
             if(first>=second) System.out.println("::::::::::::::::::You Won::::::::::::::::::::");
